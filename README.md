@@ -1,6 +1,6 @@
 
 <h1 align="center">Hola,Me llamo Luis Gumzan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from mexico</h3>
 
 - 💬 Ask me about **htlm , c++,javascript y reactjs , css**
 
