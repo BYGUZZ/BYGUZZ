@@ -1,5 +1,5 @@
 
-<h1 align="center">Hola,Me llamo Luis Gumzan</h1>
+<h1 align="center">Hola Me llamo Luis Gumzan</h1>
 <h3 align="center">A passionate frontend developer from Mexico</h3>
 
 - 💬 Ask me about **htlm , c++,javascript y reactjs , css**
