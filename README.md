@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋,My Name is Luis Gumzan</h1>
+<h1 align="center">Hi 👋, My Name is Luis Gumzan</h1>
 <h3 align="center">A passionate frontend developer from Mexico</h3>
 
 - 📫 How to reach me **byguzz.10@gmail.com**
